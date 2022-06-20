@@ -1,8 +1,10 @@
 body {
     background: blue;
     font-family: 'Courier New', Courier, monospace;
+    color: white;
 }
 
 table {
-    border-color: black;
+    border-style: solid;
+    border-color: white;
 }
